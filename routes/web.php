@@ -29,3 +29,19 @@ Route::get('/contact', function () {
 });
 
 
+
+
+// Route::get('/', 'home');
+
+// Route::controller(JobController::class)->group(function () {
+//     Route::get('/jobs', 'index');
+//     Route::get('/jobs/craete','create');
+//     Route::get('/jobs/{job}','show');
+//     Route::get('/jobs','store');
+//     Route::get('/jobs/{job}/edit','edit');
+//     Route::get('/jobs{job}','update');
+//     Route::get('/jobs/{job}','destroy');
+// });
+
+
+// Route::view('/contact','contact');
